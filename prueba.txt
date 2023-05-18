@@ -2,3 +2,4 @@ actualizacion 1
 linea 2, cambios al archivo haber si aun voy bien XD
 linea 3, no hicimos commit
 creo que tenia que hacer otro commit
+midificaciones remotas 
